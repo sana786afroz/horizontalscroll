@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  scroll-margin: horizontal;
+  align-items: center;
+  margin-top: 10rem;
+}
+.div1 {
+  border: 1px solid black;
+  height: 20rem;
+  width: 40rem;
+  padding: 1rem;
+}
+.div2 {
+  border: 1px solid black;
+  height: 20rem;
+  width: 40rem;
+  padding: 1rem;
+}
+.div3 {
+  border: 1px solid black;
+  height: 20rem;
+  width: 40rem;
+  padding: 1rem;
+}
+.div4 {
+  border: 1px solid black;
+  height: 20rem;
+  width: 40rem;
+  padding: 1rem;
+}
+.div5 {
+  border: 1px solid black;
+  height: 20rem;
+  width: 40rem;
+  padding: 1rem;
+}
+.div6 {
+  border: 1px solid black;
+  height: 20rem;
+  width: 40rem;
+  padding: 1rem;
+}
+img {
+  border-radius: 30px;
+  height: 10rem;
+  width: 7rem;
+}
